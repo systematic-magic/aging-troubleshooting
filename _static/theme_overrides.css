@@ -1,0 +1,74 @@
+.wy-side-nav-search {
+   background-color: #194996;
+}
+
+.wy-nav-content {
+   max-width: 1050px
+}
+
+body span.caption-text {
+	color: #3777de;
+}
+
+body span.sample {
+	font-family: monospace;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+
+}
+
+body span.blue {
+	color: #00479b;
+	font-size: 18px;
+	font-weight: 700;
+}
+
+body span.wtonbl {
+	display: inline-block;
+	padding-top: 5px;
+  	padding-right: 5px;
+  	padding-bottom: 5px;
+  	padding-left: 5px;
+  	font-size: 18px;
+  	letter-spacing: .15px;
+	color: #fff;
+	background-color: #0053b5;
+	font-weight: 700;
+}
+
+body span.headr2 {
+	color: #2e4057;
+	font-weight:700;
+}
+
+body span.red {
+	color: #ac2b31;
+	font-weight: 700;
+}
+
+body span.sampleb {
+	font-family: monospace;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 20px;
+}
+
+body span.sampleu {
+	font-family: monospace;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	text-decoration: underline;
+	text-decoration-color: #4074c8;
+	color: #4074c8;
+
+}
+
+.strike {
+  text-decoration: line-through;
+}
