@@ -20,6 +20,8 @@ SUPPLEMENTARY MATERIALS: All Papers (except Editorials)
 
 Check each supplementary file to verify contents. Google Drive and `VLC <https://www.videolan.org/>`_ are alternative methods to open supplementary videos if you’re having trouble opening with your pre-installed video player.
 
+Each supplementary PDF file should have a heading; seek guidance from both Olga and Elena  while copying Christopher in your corrections email if a heading is missing.
+
 .. _title_supplementary_html_research_papers:
 
 1. Title 
