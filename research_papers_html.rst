@@ -675,6 +675,9 @@ If image is hard to read, please contact Production team and ask to provide clea
 	  - Check that at least the first instance of each panel letter is enclosed in parentheses. Subsequent callouts of the same panel letter can be enclosed in parentheses, but this is not mandatory.
 	  - Check that the case of each panel letter callout matches case of the panel letter used in the image. Uppercase or lowercase is fine as long as only one case is consistently used in the figure and throughout the paper. 
 	  - Check that the first instance of each panel letter is called out in alphabetical order (Ex. A, B, A, C, B, D).
+	  
+	          - Check with author about rearranging panels/callouts if called out of order. If author has logical reason for keeping as-is, please seek approval from Olga while copying Christopher.
+
 	  - :ref:`Panel letters<figure_pannel>` can be combined in different ways in the figure legend text (The same variations are allowed for lowercase :ref:`panel letters<figure_pannel>`):
 
 	   |
